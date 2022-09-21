@@ -1,0 +1,16 @@
+PODS:
+  - HTUILib (0.1.0)
+
+DEPENDENCIES:
+  - HTUILib (from `../`)
+
+EXTERNAL SOURCES:
+  HTUILib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HTUILib: 52d7e2f47ffa394f807844cace9594b548c00c00
+
+PODFILE CHECKSUM: 4b9d5febb1ffac5aba4e2bec27086d8cefdce8c9
+
+COCOAPODS: 1.10.1
