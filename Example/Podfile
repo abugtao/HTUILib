@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'HTUILib_Example' do
+  pod 'HTUILib', :path => '../'
+
+  target 'HTUILib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
